@@ -2992,7 +2992,7 @@
     <!-- Linked / unlinked notification volume -->
     <string name="link_volume_option_title">Lier le volume de sonnerie et de notification</string>
     <string name="notification_volume_option_title">Volume de notification</string>
-    <string name="ring_notification_volume_option_tile">Volume de sonnerie et de notification</string>.
+    <string name="ring_notification_volume_option_tile">Volume de sonnerie et de notification</string>
 
     <!-- Long press on lock screen lock icon to sleep -->
     <string name="longpress_lock_icon_to_sleep_title">Appui long sur l\'icône de verrouillage pour mettre en veille</string>
