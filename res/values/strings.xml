@@ -6360,7 +6360,7 @@
     <string name="qs_tile_usb_tether">USB tethering</string>
     <string name="qs_screenshot_tile">Screenshot</string>
     <string name="qs_tile_heads_up">Heads up</string>
-    <string name="qs_ambient_display">Ambient Display</string>
+    <string name="qs_tile_ambient_display">Ambient display</string>
 
     <!-- Privacy Guard -->
     <string name="privacy_guard_dlg_title">Enable privacy guard?</string>
@@ -6567,7 +6567,7 @@
     <string name="navigation_ring_enable_title">Enable navigation rings</string>
 
     <!-- Silent mode -->
-    <string name="none_is_silent_title">None is Silent mode</string>
+    <string name="none_is_silent_title">Never mute alarms</string>
     <string name="none_is_silent_summary">Silent mode always sounds alarms</string>
     <string name="allow_lights_title">Allow notification lights in zen mode</string>
 
