@@ -75,6 +75,7 @@ import com.android.settings.applications.ProcessStatsUi;
 import com.android.settings.blacklist.BlacklistSettings;
 import com.android.settings.bluetooth.BluetoothSettings;
 import com.android.settings.simpleaosp.AdditionalSettings;
+import com.android.settings.cyanogenmod.qs.QSTiles;
 import com.android.settings.headsup.HeadsUpSettings;
 import com.android.settings.dashboard.DashboardCategory;
 import com.android.settings.dashboard.DashboardSummary;
@@ -310,7 +311,8 @@ public class SettingsActivity extends Activity
             ApnSettings.class.getName(),
             BlacklistSettings.class.getName(),         
             ExpandedDesktopPreferenceFragment.class.getName(),
-	    HeadsUpSettings.class.getName()
+	    HeadsUpSettings.class.getName(),
+ 	    QSTiles.class.getName()
     };
 
 
