@@ -6419,6 +6419,7 @@
     <string name="battery_light_full_color_title">Fully charged</string>
 
     <!-- Lights settings screen, notification light settings -->
+    <string name="display_category_light_options_title">Lights</string>
     <string name="notification_light_title">Notification light</string>
     <string name="notification_light_general_title">General</string>
     <string name="notification_light_applist_title">Apps</string>
